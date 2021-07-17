@@ -15,19 +15,19 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="TensorFlow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />][tensorflow]
+[<img align="left" alt="TensorFlow" width="30px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />][tensorflow]
 
-[<img align="left" alt="Pytorch" width="26px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"" />][pytorch]
+[<img align="left" alt="Pytorch" width="30px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />][pytorch]
 
-[<img align="left" alt="OpenCV" width="26px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />][opencv]
+[<img align="left" alt="OpenCV" width="30px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />][opencv]
 
-[<img align="left" alt="Scikit" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][scikit]
+[<img align="left" alt="Scikit" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][scikit]
 
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />][docker]
+[<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />][docker]
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
 
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][linux]
+[<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][linux]
 
 
 <br />
