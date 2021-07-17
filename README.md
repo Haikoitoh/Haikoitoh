@@ -33,7 +33,7 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haikoitoh&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haikoitoh&show_icons=true&theme=radical&count_private=True)
 
 [linkedin]: https://linkedin.com/in/sumeetbadgujar
 [medium]: https://medium.com/@sumeetbadgujar
