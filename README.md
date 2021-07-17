@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
 - ⚡ Self fact: I love to read stories, novels and manga
-- sunglasses: Fun fact: Ore wa Kaizoku Ou ni naru!
-
-<br />
+- 😃 Fun fact: Ore wa Kaizoku Ou ni naru!
 
 ### Connect with me:
 
@@ -34,7 +32,7 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haikoitoh&show_icons=true&theme=radical&count_private=True)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haikoitoh&show_icons=true&theme=radical&count_private=True&layout=default)
 
 [linkedin]: https://linkedin.com/in/sumeetbadgujar
 [medium]: https://medium.com/@sumeetbadgujar
