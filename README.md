@@ -3,7 +3,8 @@
 - 🔭 I am interested in Deep Learning, Machine Learning and Artificial Intelligence.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
-- ⚡ Fun fact: I love to read stories, novels and manga
+- ⚡ Self fact: I love to read stories, novels and manga
+- sunglasses: Fun fact: Ore wa Kaizoku Ou ni naru!
 
 <br />
 
