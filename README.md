@@ -5,13 +5,14 @@
 - 👯 I’m looking to collaborate with other creators
 - ⚡ Fun fact: I love to read stories, novels and manga
 
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="haikoitoh | LinkedIn" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="haikoitoh | Medium" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][medium]
 
-
-
+<br />
 
 ### Languages and Tools:
 
@@ -29,10 +30,8 @@
 
 [<img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][linux]
 
-
 <br />
 <br />
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haikoitoh&show_icons=true&theme=radical&count_private=True)
 
 [linkedin]: https://linkedin.com/in/sumeetbadgujar
