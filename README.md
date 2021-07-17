@@ -7,35 +7,33 @@
 
 ### Connect with me:
 
-[<img align="left" alt="haikoitoh | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-[<img align="left" alt="haikoitoh | Medium" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][medium]
+[<img align="left" alt="haikoitoh | LinkedIn" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="haikoitoh | Medium" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][medium]
 
 
 
 
 ### Languages and Tools:
 
-[<img align="left" alt="TensorFlow" width="30px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />][tensorflow]
+[<img align="left" alt="TensorFlow" width="32px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />][tensorflow]
 
-[<img align="left" alt="Pytorch" width="30px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />][pytorch]
+[<img align="left" alt="Pytorch" width="32px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />][pytorch]
 
-[<img align="left" alt="OpenCV" width="30px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />][opencv]
+[<img align="left" alt="OpenCV" width="32px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />][opencv]
 
-[<img align="left" alt="Scikit" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][scikit]
+[<img align="left" alt="Scikit" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][scikit]
 
-[<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />][docker]
+[<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />][docker]
 
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
+[<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
 
-[<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][linux]
+[<img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][linux]
 
 
 <br />
 <br />
 
----
-<img align="left" alt="Sumeet's GitHub Stats" src="https://github-readme-stats.haikoitoh.vercel.app/api?username=haikoitoh&show_icons=true&hide_border=true" />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haikoitoh&show_icons=true&theme=radical)
 
 [linkedin]: https://linkedin.com/in/sumeetbadgujar
 [medium]: https://medium.com/@sumeetbadgujar
