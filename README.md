@@ -1,6 +1,6 @@
 ### Hi there, I'm Sumeet Badgujar 👋
 
-- 🔭 I am interested in Deep Learning, Machine Learning and Artificial Intelligence.
+- 🔭 I am interested in Data Analytics, Deep Learning, Machine Learning and Artificial Intelligence.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
 - ⚡ Self fact: I love to read stories, novels and manga
