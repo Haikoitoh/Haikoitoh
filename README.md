@@ -1,10 +1,7 @@
 ### Hi there, I'm Sumeet Badgujar 👋
 
-- 🔭 I am interested in Data Analytics, Deep Learning, Machine Learning and Artificial Intelligence.
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other creators
-- ⚡ Self fact: I love to read stories, novels and manga
-- 😃 Fun fact: Ore wa Kaizoku Ou ni naru!
+- 🔭 I am interested in Data Analytics, Data Science and Data Engineering.
+- 🌱 I’m currently learning everything
 
 ### Connect with me:
 
@@ -14,16 +11,6 @@
 <br />
 
 ### Languages and Tools:
-
-[<img align="left" alt="TensorFlow" width="32px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />][tensorflow]
-
-[<img align="left" alt="Pytorch" width="32px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />][pytorch]
-
-[<img align="left" alt="OpenCV" width="32px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />][opencv]
-
-[<img align="left" alt="Scikit" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][scikit]
-
-[<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />][docker]
 
 [<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
 
